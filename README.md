@@ -1,6 +1,9 @@
 # todo_getx
 
 A new Flutter project.
+The App Use mangodb with Api nodejs and local base Sqlflite 
+i let both in the project 
+
 
 ## Getting Started
 
